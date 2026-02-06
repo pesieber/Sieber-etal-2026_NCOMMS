@@ -1,6 +1,7 @@
 # Sieber-etal-2026_NCOMMS
+Code used for the analysis in Sieber et al., 2026: "Climate response to Nature Future scenarios in a regional Earth System Model"   
 
-Scripts used for the analysis in Sieber et al., 2026: "Climate response to Nature Future scenarios in a regional Earth System Model"
+[![DOI](https://zenodo.org/badge/1151735036.svg)](https://doi.org/10.5281/zenodo.18511015)   
 
 ## Scripts for analysis and plotting
 **1_analysis-LC-climate.ipynb**: analysis of land cover differences and climate response.   
