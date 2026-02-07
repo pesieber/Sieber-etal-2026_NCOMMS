@@ -18,16 +18,19 @@ Produces Fig. 7 and supplementary Figs. 6-8
 
 **5_PFT-transitions_Ridge.ipynb**: decomposes the surface/air temperature response into contributions of land cover transitions.   
 Produces Fig. 8 and supplementary Figs. 10-14    
-       
-## Settings and input data
-**settings.py**: sets the path to input data   
-**dataset_contents.txt**: file overview
-**dataset_README.txt**: dataset description
-
-The dataset can be obtained from the ETH research collection.   
 
 ## Helpers
 **plotting.py**: plotting style   
 **func_calc.py**: functions for calculations   
 **func_plots.py**: functions for plotting   
-**func_stats.py**: functions for significance testing   
+**func_stats.py**: functions for significance testing  
+
+## Settings
+**settings.py**: sets the path to input data   
+
+## Input data
+The dataset is available from the ETH research collection: [https://doi.org/10.3929/ethz-c-000795598](https://doi.org/10.3929/ethz-c-000795598)     
+**dataset_contents.txt**: file overview   
+**dataset_README.txt**: dataset description
+
+
